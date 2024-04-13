@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "ES2016",
+      "rootDir": "src",
+      "outDir": "dist",
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "strict": true
+    },
+    "include": ["src/**/*"],
+    "files": ["src/custom.d.ts"]
+  }
